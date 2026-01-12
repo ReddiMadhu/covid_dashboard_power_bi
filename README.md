@@ -86,3 +86,4 @@ Microsoft Certified: Azure Data Engineer Associate
 Databricks Certified Data Engineer Associate
 KEY SKILLS
 Data Governance | Data Engineering | Microsoft Purview | Databricks | Unity Catalog | Delta Lake | PySpark | Azure Data Factory | Azure Data Lake Storage | SQL | Python | Sensitivity Classification | Insurance Domain
+ Developed a Python-based automation tool to migrate metadata from legacy catalog systems to Microsoft Purview, reducing manual effort by 60%. Extracted business terms, asset definitions, classifications, and lineage information via REST APIs and native exports. Transformed metadata into Apache Atlas-compatible formats, loaded assets through Purview REST APIs, and validated migrated content against source systems to ensure accuracy, completeness, and relationship integrity.
